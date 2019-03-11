@@ -8,7 +8,7 @@
 * [It's All Widgets!](https://itsallwidgets.com/)
 * [Flutter by Example](https://flutterbyexample.com/)
 
-## quetions
+## questions
 * [TabBar Without AppBar](https://stackoverflow.com/questions/50609252/flutter-tabbar-without-appbar)
 * [Multiple Navigators with BottomNavigationBar](https://medium.com/coding-with-flutter/flutter-case-study-multiple-navigators-with-bottomnavigationbar-90eb6caa6dbf)
 * [ListView disable scrolling with touchscreen](https://stackoverflow.com/questions/50477809/flutter-listview-disable-scrolling-with-touchscreen)
